@@ -22,6 +22,8 @@ public class EndtoEnd {
 		
 		String product="ZARA COAT 3";
 		
+		//commented all the code with neat all code pushing
+		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
